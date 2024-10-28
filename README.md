@@ -1,4 +1,4 @@
-# piano-project-2 🎹
+# Projeto Piano Virtual 🎹
 Projeto Piano Virtual - Desafio de Código Dio
 
 Melhorias implementadas por mim:
